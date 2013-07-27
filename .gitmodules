@@ -1,0 +1,3 @@
+[submodule "dotify-package-deps"]
+	path = dotify-package-deps
+	url = https://gist.github.com/6091959.git
